@@ -1,0 +1,16 @@
+C:\Users\FONTi\Documents\rascunho\PEOO2021\Lista01\bin\Debug\net5.0\Lista01.exe
+C:\Users\FONTi\Documents\rascunho\PEOO2021\Lista01\bin\Debug\net5.0\Lista01.deps.json
+C:\Users\FONTi\Documents\rascunho\PEOO2021\Lista01\bin\Debug\net5.0\Lista01.runtimeconfig.json
+C:\Users\FONTi\Documents\rascunho\PEOO2021\Lista01\bin\Debug\net5.0\Lista01.runtimeconfig.dev.json
+C:\Users\FONTi\Documents\rascunho\PEOO2021\Lista01\bin\Debug\net5.0\Lista01.dll
+C:\Users\FONTi\Documents\rascunho\PEOO2021\Lista01\bin\Debug\net5.0\ref\Lista01.dll
+C:\Users\FONTi\Documents\rascunho\PEOO2021\Lista01\bin\Debug\net5.0\Lista01.pdb
+C:\Users\FONTi\Documents\rascunho\PEOO2021\Lista01\obj\Debug\net5.0\Lista01.csprojAssemblyReference.cache
+C:\Users\FONTi\Documents\rascunho\PEOO2021\Lista01\obj\Debug\net5.0\Lista01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FONTi\Documents\rascunho\PEOO2021\Lista01\obj\Debug\net5.0\Lista01.AssemblyInfoInputs.cache
+C:\Users\FONTi\Documents\rascunho\PEOO2021\Lista01\obj\Debug\net5.0\Lista01.AssemblyInfo.cs
+C:\Users\FONTi\Documents\rascunho\PEOO2021\Lista01\obj\Debug\net5.0\Lista01.csproj.CoreCompileInputs.cache
+C:\Users\FONTi\Documents\rascunho\PEOO2021\Lista01\obj\Debug\net5.0\Lista01.dll
+C:\Users\FONTi\Documents\rascunho\PEOO2021\Lista01\obj\Debug\net5.0\ref\Lista01.dll
+C:\Users\FONTi\Documents\rascunho\PEOO2021\Lista01\obj\Debug\net5.0\Lista01.pdb
+C:\Users\FONTi\Documents\rascunho\PEOO2021\Lista01\obj\Debug\net5.0\Lista01.genruntimeconfig.cache

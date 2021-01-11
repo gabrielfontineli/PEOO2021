@@ -1,0 +1,16 @@
+C:\Users\FONTi\Documents\rascunho\PEOO2021\Lista02\Questao1\bin\Debug\net5.0\Questao1.exe
+C:\Users\FONTi\Documents\rascunho\PEOO2021\Lista02\Questao1\bin\Debug\net5.0\Questao1.deps.json
+C:\Users\FONTi\Documents\rascunho\PEOO2021\Lista02\Questao1\bin\Debug\net5.0\Questao1.runtimeconfig.json
+C:\Users\FONTi\Documents\rascunho\PEOO2021\Lista02\Questao1\bin\Debug\net5.0\Questao1.runtimeconfig.dev.json
+C:\Users\FONTi\Documents\rascunho\PEOO2021\Lista02\Questao1\bin\Debug\net5.0\Questao1.dll
+C:\Users\FONTi\Documents\rascunho\PEOO2021\Lista02\Questao1\bin\Debug\net5.0\ref\Questao1.dll
+C:\Users\FONTi\Documents\rascunho\PEOO2021\Lista02\Questao1\bin\Debug\net5.0\Questao1.pdb
+C:\Users\FONTi\Documents\rascunho\PEOO2021\Lista02\Questao1\obj\Debug\net5.0\Questao1.csprojAssemblyReference.cache
+C:\Users\FONTi\Documents\rascunho\PEOO2021\Lista02\Questao1\obj\Debug\net5.0\Questao1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FONTi\Documents\rascunho\PEOO2021\Lista02\Questao1\obj\Debug\net5.0\Questao1.AssemblyInfoInputs.cache
+C:\Users\FONTi\Documents\rascunho\PEOO2021\Lista02\Questao1\obj\Debug\net5.0\Questao1.AssemblyInfo.cs
+C:\Users\FONTi\Documents\rascunho\PEOO2021\Lista02\Questao1\obj\Debug\net5.0\Questao1.csproj.CoreCompileInputs.cache
+C:\Users\FONTi\Documents\rascunho\PEOO2021\Lista02\Questao1\obj\Debug\net5.0\Questao1.dll
+C:\Users\FONTi\Documents\rascunho\PEOO2021\Lista02\Questao1\obj\Debug\net5.0\ref\Questao1.dll
+C:\Users\FONTi\Documents\rascunho\PEOO2021\Lista02\Questao1\obj\Debug\net5.0\Questao1.pdb
+C:\Users\FONTi\Documents\rascunho\PEOO2021\Lista02\Questao1\obj\Debug\net5.0\Questao1.genruntimeconfig.cache
