@@ -1,0 +1,16 @@
+C:\Users\FONTi\Documents\rascunho\PEOO2021\Lista03\URI1018\obj\Debug\net5.0\URI1018.csprojAssemblyReference.cache
+C:\Users\FONTi\Documents\rascunho\PEOO2021\Lista03\URI1018\obj\Debug\net5.0\URI1018.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FONTi\Documents\rascunho\PEOO2021\Lista03\URI1018\obj\Debug\net5.0\URI1018.AssemblyInfoInputs.cache
+C:\Users\FONTi\Documents\rascunho\PEOO2021\Lista03\URI1018\obj\Debug\net5.0\URI1018.AssemblyInfo.cs
+C:\Users\FONTi\Documents\rascunho\PEOO2021\Lista03\URI1018\obj\Debug\net5.0\URI1018.csproj.CoreCompileInputs.cache
+C:\Users\FONTi\Documents\rascunho\PEOO2021\Lista03\URI1018\bin\Debug\net5.0\URI1018.exe
+C:\Users\FONTi\Documents\rascunho\PEOO2021\Lista03\URI1018\bin\Debug\net5.0\URI1018.deps.json
+C:\Users\FONTi\Documents\rascunho\PEOO2021\Lista03\URI1018\bin\Debug\net5.0\URI1018.runtimeconfig.json
+C:\Users\FONTi\Documents\rascunho\PEOO2021\Lista03\URI1018\bin\Debug\net5.0\URI1018.runtimeconfig.dev.json
+C:\Users\FONTi\Documents\rascunho\PEOO2021\Lista03\URI1018\bin\Debug\net5.0\URI1018.dll
+C:\Users\FONTi\Documents\rascunho\PEOO2021\Lista03\URI1018\bin\Debug\net5.0\ref\URI1018.dll
+C:\Users\FONTi\Documents\rascunho\PEOO2021\Lista03\URI1018\bin\Debug\net5.0\URI1018.pdb
+C:\Users\FONTi\Documents\rascunho\PEOO2021\Lista03\URI1018\obj\Debug\net5.0\URI1018.dll
+C:\Users\FONTi\Documents\rascunho\PEOO2021\Lista03\URI1018\obj\Debug\net5.0\ref\URI1018.dll
+C:\Users\FONTi\Documents\rascunho\PEOO2021\Lista03\URI1018\obj\Debug\net5.0\URI1018.pdb
+C:\Users\FONTi\Documents\rascunho\PEOO2021\Lista03\URI1018\obj\Debug\net5.0\URI1018.genruntimeconfig.cache
