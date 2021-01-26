@@ -1,0 +1,16 @@
+/home/fonti/Desktop/estudos/PEOO2021/Lista06/URI1140/obj/Debug/net5.0/URI1140.csprojAssemblyReference.cache
+/home/fonti/Desktop/estudos/PEOO2021/Lista06/URI1140/obj/Debug/net5.0/URI1140.GeneratedMSBuildEditorConfig.editorconfig
+/home/fonti/Desktop/estudos/PEOO2021/Lista06/URI1140/obj/Debug/net5.0/URI1140.AssemblyInfoInputs.cache
+/home/fonti/Desktop/estudos/PEOO2021/Lista06/URI1140/obj/Debug/net5.0/URI1140.AssemblyInfo.cs
+/home/fonti/Desktop/estudos/PEOO2021/Lista06/URI1140/obj/Debug/net5.0/URI1140.csproj.CoreCompileInputs.cache
+/home/fonti/Desktop/estudos/PEOO2021/Lista06/URI1140/bin/Debug/net5.0/URI1140
+/home/fonti/Desktop/estudos/PEOO2021/Lista06/URI1140/bin/Debug/net5.0/URI1140.deps.json
+/home/fonti/Desktop/estudos/PEOO2021/Lista06/URI1140/bin/Debug/net5.0/URI1140.runtimeconfig.json
+/home/fonti/Desktop/estudos/PEOO2021/Lista06/URI1140/bin/Debug/net5.0/URI1140.runtimeconfig.dev.json
+/home/fonti/Desktop/estudos/PEOO2021/Lista06/URI1140/bin/Debug/net5.0/URI1140.dll
+/home/fonti/Desktop/estudos/PEOO2021/Lista06/URI1140/bin/Debug/net5.0/ref/URI1140.dll
+/home/fonti/Desktop/estudos/PEOO2021/Lista06/URI1140/bin/Debug/net5.0/URI1140.pdb
+/home/fonti/Desktop/estudos/PEOO2021/Lista06/URI1140/obj/Debug/net5.0/URI1140.dll
+/home/fonti/Desktop/estudos/PEOO2021/Lista06/URI1140/obj/Debug/net5.0/ref/URI1140.dll
+/home/fonti/Desktop/estudos/PEOO2021/Lista06/URI1140/obj/Debug/net5.0/URI1140.pdb
+/home/fonti/Desktop/estudos/PEOO2021/Lista06/URI1140/obj/Debug/net5.0/URI1140.genruntimeconfig.cache
