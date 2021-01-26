@@ -1,0 +1,16 @@
+/home/fonti/Desktop/estudos/PEOO2021/Lista06/URI1117/obj/Debug/net5.0/URI1117.csprojAssemblyReference.cache
+/home/fonti/Desktop/estudos/PEOO2021/Lista06/URI1117/obj/Debug/net5.0/URI1117.GeneratedMSBuildEditorConfig.editorconfig
+/home/fonti/Desktop/estudos/PEOO2021/Lista06/URI1117/obj/Debug/net5.0/URI1117.AssemblyInfoInputs.cache
+/home/fonti/Desktop/estudos/PEOO2021/Lista06/URI1117/obj/Debug/net5.0/URI1117.AssemblyInfo.cs
+/home/fonti/Desktop/estudos/PEOO2021/Lista06/URI1117/obj/Debug/net5.0/URI1117.csproj.CoreCompileInputs.cache
+/home/fonti/Desktop/estudos/PEOO2021/Lista06/URI1117/bin/Debug/net5.0/URI1117
+/home/fonti/Desktop/estudos/PEOO2021/Lista06/URI1117/bin/Debug/net5.0/URI1117.deps.json
+/home/fonti/Desktop/estudos/PEOO2021/Lista06/URI1117/bin/Debug/net5.0/URI1117.runtimeconfig.json
+/home/fonti/Desktop/estudos/PEOO2021/Lista06/URI1117/bin/Debug/net5.0/URI1117.runtimeconfig.dev.json
+/home/fonti/Desktop/estudos/PEOO2021/Lista06/URI1117/bin/Debug/net5.0/URI1117.dll
+/home/fonti/Desktop/estudos/PEOO2021/Lista06/URI1117/bin/Debug/net5.0/ref/URI1117.dll
+/home/fonti/Desktop/estudos/PEOO2021/Lista06/URI1117/bin/Debug/net5.0/URI1117.pdb
+/home/fonti/Desktop/estudos/PEOO2021/Lista06/URI1117/obj/Debug/net5.0/URI1117.dll
+/home/fonti/Desktop/estudos/PEOO2021/Lista06/URI1117/obj/Debug/net5.0/ref/URI1117.dll
+/home/fonti/Desktop/estudos/PEOO2021/Lista06/URI1117/obj/Debug/net5.0/URI1117.pdb
+/home/fonti/Desktop/estudos/PEOO2021/Lista06/URI1117/obj/Debug/net5.0/URI1117.genruntimeconfig.cache

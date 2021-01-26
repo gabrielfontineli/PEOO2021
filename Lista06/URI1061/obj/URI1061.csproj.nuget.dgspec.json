@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/fonti/Desktop/PEOO2021/Lista05/URI2456/URI2456.csproj": {}
+    "/home/fonti/Desktop/estudos/PEOO2021/Lista06/URI1061/URI1061.csproj": {}
   },
   "projects": {
-    "/home/fonti/Desktop/PEOO2021/Lista05/URI2456/URI2456.csproj": {
+    "/home/fonti/Desktop/estudos/PEOO2021/Lista06/URI1061/URI1061.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/fonti/Desktop/PEOO2021/Lista05/URI2456/URI2456.csproj",
-        "projectName": "URI2456",
-        "projectPath": "/home/fonti/Desktop/PEOO2021/Lista05/URI2456/URI2456.csproj",
+        "projectUniqueName": "/home/fonti/Desktop/estudos/PEOO2021/Lista06/URI1061/URI1061.csproj",
+        "projectName": "URI1061",
+        "projectPath": "/home/fonti/Desktop/estudos/PEOO2021/Lista06/URI1061/URI1061.csproj",
         "packagesPath": "/home/fonti/.nuget/packages/",
-        "outputPath": "/home/fonti/Desktop/PEOO2021/Lista05/URI2456/obj/",
+        "outputPath": "/home/fonti/Desktop/estudos/PEOO2021/Lista06/URI1061/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/fonti/.nuget/NuGet/NuGet.Config"
