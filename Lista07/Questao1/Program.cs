@@ -6,7 +6,16 @@ namespace Questao1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            double a = double.Parse(Console.ReadLine());
+            double b = double.Parse(Console.ReadLine());
+            Console.WriteLine($"o maior eh: {maior(a,b)} ");
+        }
+
+        public static double maior(double a, double b){
+            double maior;
+            if (a > b) maior = a;
+            else maior = b;
+            return maior;
         }
     }
 }
