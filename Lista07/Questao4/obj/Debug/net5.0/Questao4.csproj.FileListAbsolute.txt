@@ -1,0 +1,16 @@
+/home/fonti/Desktop/estudos/PEOO2021/Lista07/Questao4/obj/Debug/net5.0/Questao4.csprojAssemblyReference.cache
+/home/fonti/Desktop/estudos/PEOO2021/Lista07/Questao4/obj/Debug/net5.0/Questao4.GeneratedMSBuildEditorConfig.editorconfig
+/home/fonti/Desktop/estudos/PEOO2021/Lista07/Questao4/obj/Debug/net5.0/Questao4.AssemblyInfoInputs.cache
+/home/fonti/Desktop/estudos/PEOO2021/Lista07/Questao4/obj/Debug/net5.0/Questao4.AssemblyInfo.cs
+/home/fonti/Desktop/estudos/PEOO2021/Lista07/Questao4/obj/Debug/net5.0/Questao4.csproj.CoreCompileInputs.cache
+/home/fonti/Desktop/estudos/PEOO2021/Lista07/Questao4/bin/Debug/net5.0/Questao4
+/home/fonti/Desktop/estudos/PEOO2021/Lista07/Questao4/bin/Debug/net5.0/Questao4.deps.json
+/home/fonti/Desktop/estudos/PEOO2021/Lista07/Questao4/bin/Debug/net5.0/Questao4.runtimeconfig.json
+/home/fonti/Desktop/estudos/PEOO2021/Lista07/Questao4/bin/Debug/net5.0/Questao4.runtimeconfig.dev.json
+/home/fonti/Desktop/estudos/PEOO2021/Lista07/Questao4/bin/Debug/net5.0/Questao4.dll
+/home/fonti/Desktop/estudos/PEOO2021/Lista07/Questao4/bin/Debug/net5.0/ref/Questao4.dll
+/home/fonti/Desktop/estudos/PEOO2021/Lista07/Questao4/bin/Debug/net5.0/Questao4.pdb
+/home/fonti/Desktop/estudos/PEOO2021/Lista07/Questao4/obj/Debug/net5.0/Questao4.dll
+/home/fonti/Desktop/estudos/PEOO2021/Lista07/Questao4/obj/Debug/net5.0/ref/Questao4.dll
+/home/fonti/Desktop/estudos/PEOO2021/Lista07/Questao4/obj/Debug/net5.0/Questao4.pdb
+/home/fonti/Desktop/estudos/PEOO2021/Lista07/Questao4/obj/Debug/net5.0/Questao4.genruntimeconfig.cache
