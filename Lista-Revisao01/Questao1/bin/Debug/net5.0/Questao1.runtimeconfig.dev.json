@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/home/fonti/.dotnet/store/|arch|/|tfm|",
+      "/home/fonti/.nuget/packages"
+    ]
+  }
+}
