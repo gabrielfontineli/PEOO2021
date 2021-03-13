@@ -21,11 +21,21 @@ namespace Questao2
     {
         public int nota1,nota2,nota3,nota4,notafinal;
         public int media = ((nota1*2)+ (nota2*2)+ (nota3 * 3)+ (nota4*3))/10;
+       
 
         public string MediaParcial()
         {
-                        if (media > 60) return $"Parabéns, você foi aprovado com a média de {media}";
-            else if(media < 60) return $"Que pena, você ficou na prova final com a média {media}, precisando de {120 - media}";
+             public string parcial{
+        if (media >= 60) 
+            {
+            parcial = $"Parabéns, você foi aprovado com a média de {media}";
+            }
+        else if (media < 60)
+            {
+            parcial = $"Que pena, você ficou na prova final com a média {media}, precisando de {120 - media}";
+            }
+            return parcial;
+             }
         }
         /*public int MediaFinal()
         {
