@@ -13,34 +13,33 @@ namespace Questao2
             x.nota3 = 56;
             x.nota4 = 58;
             x.notafinal= 80;
-            Console.WriteLine(x.MediaParcial());
+            x.nome = "POO";
+            Console.Write($"Na disciplina {x.nome}, ");
+            Console.Write(x.MediaParcial());
+            Console.Write(x.MediaFinal());
+
         }
     }
 
     class Disciplina
     {
         public int nota1,nota2,nota3,nota4,notafinal;
-        public int media = ((nota1*2)+ (nota2*2)+ (nota3 * 3)+ (nota4*3))/10;
-       
-
-        public string MediaParcial()
+        public int media;
+        public string nome;
+        public string MediaParcial()    
         {
-             public string parcial{
-        if (media >= 60) 
-            {
-            parcial = $"Parabéns, você foi aprovado com a média de {media}";
-            }
-        else if (media < 60)
-            {
-            parcial = $"Que pena, você ficou na prova final com a média {media}, precisando de {120 - media}";
-            }
-            return parcial;
-             }
+             media = ((nota1*2)+ (nota2*2)+ (nota3 * 3)+ (nota4*3))/10; 
+             if (media <= 60) return ($"sua nota foi {media} e vc precisa de {120-media} na prova final ");
+             else return ($"vc passou por media com a nota {media}");   
         }
-        /*public int MediaFinal()
+        
+        public string MediaFinal()
         {
-        }*/
+           
+            
+            if (media >= 60)return(" e n precisa de prova final");
+            else return ($" \n Sua media final foi {(media + notafinal)/2}") ;
+        }
     }
-    
 }
 

@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/home/fonti/Desktop/estudos/PEOO2021/POO/Lista01/Questao2/Questao2.csproj": {}
+    "C:\\Users\\FONTi\\Documents\\IFRN-2021\\Modulo03\\PEOO2021\\POO\\Lista01\\Questao2\\Questao2.csproj": {}
   },
   "projects": {
-    "/home/fonti/Desktop/estudos/PEOO2021/POO/Lista01/Questao2/Questao2.csproj": {
+    "C:\\Users\\FONTi\\Documents\\IFRN-2021\\Modulo03\\PEOO2021\\POO\\Lista01\\Questao2\\Questao2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/fonti/Desktop/estudos/PEOO2021/POO/Lista01/Questao2/Questao2.csproj",
+        "projectUniqueName": "C:\\Users\\FONTi\\Documents\\IFRN-2021\\Modulo03\\PEOO2021\\POO\\Lista01\\Questao2\\Questao2.csproj",
         "projectName": "Questao2",
-        "projectPath": "/home/fonti/Desktop/estudos/PEOO2021/POO/Lista01/Questao2/Questao2.csproj",
-        "packagesPath": "/home/fonti/.nuget/packages/",
-        "outputPath": "/home/fonti/Desktop/estudos/PEOO2021/POO/Lista01/Questao2/obj/",
+        "projectPath": "C:\\Users\\FONTi\\Documents\\IFRN-2021\\Modulo03\\PEOO2021\\POO\\Lista01\\Questao2\\Questao2.csproj",
+        "packagesPath": "C:\\Users\\FONTi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\FONTi\\Documents\\IFRN-2021\\Modulo03\\PEOO2021\\POO\\Lista01\\Questao2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/fonti/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\FONTi\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -52,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/snap/dotnet-sdk/116/sdk/5.0.201/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.104\\RuntimeIdentifierGraph.json"
         }
       }
     }
