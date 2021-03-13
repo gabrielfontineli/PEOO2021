@@ -23,8 +23,7 @@ namespace Questao2
 
     class Disciplina
     {
-        public int nota1,nota2,nota3,nota4,notafinal;
-        public int media;
+        public int nota1,nota2,nota3,nota4,notafinal,media;
         public string nome;
         public string MediaParcial()    
         {
@@ -35,8 +34,6 @@ namespace Questao2
         
         public string MediaFinal()
         {
-           
-            
             if (media >= 60)return(" e n precisa de prova final");
             else return ($" \n Sua media final foi {(media + notafinal)/2}") ;
         }
