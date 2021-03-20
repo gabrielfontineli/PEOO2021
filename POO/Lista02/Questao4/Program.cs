@@ -11,9 +11,9 @@ namespace Questao4
             x.SetConta(895945);
             x.SetSaldo(3000);
             Console.WriteLine(x.GetSaldo());
-            x.Deposito(500);
+            x.Deposito();
             Console.WriteLine(x.GetSaldo());
-            x.Saque(-500);
+            x.Saque();
             Console.WriteLine(x.GetSaldo());
         }
     }

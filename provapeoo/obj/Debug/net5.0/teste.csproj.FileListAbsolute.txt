@@ -1,0 +1,16 @@
+C:\Users\FONTi\Documents\rascunho\teste\bin\Debug\net5.0\teste.exe
+C:\Users\FONTi\Documents\rascunho\teste\bin\Debug\net5.0\teste.deps.json
+C:\Users\FONTi\Documents\rascunho\teste\bin\Debug\net5.0\teste.runtimeconfig.json
+C:\Users\FONTi\Documents\rascunho\teste\bin\Debug\net5.0\teste.runtimeconfig.dev.json
+C:\Users\FONTi\Documents\rascunho\teste\bin\Debug\net5.0\teste.dll
+C:\Users\FONTi\Documents\rascunho\teste\bin\Debug\net5.0\ref\teste.dll
+C:\Users\FONTi\Documents\rascunho\teste\bin\Debug\net5.0\teste.pdb
+C:\Users\FONTi\Documents\rascunho\teste\obj\Debug\net5.0\teste.csprojAssemblyReference.cache
+C:\Users\FONTi\Documents\rascunho\teste\obj\Debug\net5.0\teste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FONTi\Documents\rascunho\teste\obj\Debug\net5.0\teste.AssemblyInfoInputs.cache
+C:\Users\FONTi\Documents\rascunho\teste\obj\Debug\net5.0\teste.AssemblyInfo.cs
+C:\Users\FONTi\Documents\rascunho\teste\obj\Debug\net5.0\teste.csproj.CoreCompileInputs.cache
+C:\Users\FONTi\Documents\rascunho\teste\obj\Debug\net5.0\teste.dll
+C:\Users\FONTi\Documents\rascunho\teste\obj\Debug\net5.0\ref\teste.dll
+C:\Users\FONTi\Documents\rascunho\teste\obj\Debug\net5.0\teste.pdb
+C:\Users\FONTi\Documents\rascunho\teste\obj\Debug\net5.0\teste.genruntimeconfig.cache

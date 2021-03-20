@@ -8,7 +8,7 @@ namespace Questao2
         {
             Disciplina x;
             x = new Disciplina();
-            x.nota1 = 50;
+            x.nota1 = 100;
             x.nota2 = 55;
             x.nota3 = 56;
             x.nota4 = 58;
