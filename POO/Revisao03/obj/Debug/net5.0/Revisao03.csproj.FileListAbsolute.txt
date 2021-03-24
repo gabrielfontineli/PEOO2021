@@ -1,0 +1,5 @@
+C:\Users\FONTi\Documents\IFRN-2021\Modulo03\PEOO2021\POO\Revisao03\obj\Debug\net5.0\Revisao03.csprojAssemblyReference.cache
+C:\Users\FONTi\Documents\IFRN-2021\Modulo03\PEOO2021\POO\Revisao03\obj\Debug\net5.0\Revisao03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FONTi\Documents\IFRN-2021\Modulo03\PEOO2021\POO\Revisao03\obj\Debug\net5.0\Revisao03.AssemblyInfoInputs.cache
+C:\Users\FONTi\Documents\IFRN-2021\Modulo03\PEOO2021\POO\Revisao03\obj\Debug\net5.0\Revisao03.AssemblyInfo.cs
+C:\Users\FONTi\Documents\IFRN-2021\Modulo03\PEOO2021\POO\Revisao03\obj\Debug\net5.0\Revisao03.csproj.CoreCompileInputs.cache
